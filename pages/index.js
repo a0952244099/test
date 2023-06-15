@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="歡迎來到首頁!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          作業二完成
         </p>
       </main>
 
